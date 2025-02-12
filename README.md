@@ -11,7 +11,7 @@ This Python script utilizes the requests library to interact with the Free Curre
 ## Usage Instructions:
 
 Ensure you have the requests library installed. You can install it using pip:
-'pip install requests'
+`pip install requests`
 
 Run the script and follow the prompts to convert currencies. Type 'Q' to exit the program.
 
